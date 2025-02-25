@@ -1,10 +1,18 @@
-### App sobre el cuidado de plantas
+### Primera entrega del proyecto
 
-Esta es una aplicación diseñada para proporcionar información sobre plantas y ayudar a los usuarios a cuidarlas de manera adecuada. La app incluye características como recordatorios de riego, identificación de plantas y guías de cultivo.
-
-### Características
-Características:
-1.	Base de datos de plantas 
-2.	Recordatorios de riego y cuidado
-3.	Diario de crecimiento 
-4.	Guías paso a paso 
+Puntos a evaluar:
+-Descripción de Producto
+-Usuarios/Clientes
+-Propuesta de Valor
+-Requistos Funcionales
+-Requisitos No Funcionales
+-Priorización
+-Artefactos
+-Descripción del Proceso
+-Gestión del Proceso
+-Organización y Documentación del Repositorio
+-Formato de la Presentación
+-Ritmo de la Presentación
+-Uso del Lenguaje
+-Competencias Genéricas
+-Competencias Específicas
