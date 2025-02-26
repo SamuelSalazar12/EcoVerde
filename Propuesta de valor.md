@@ -1,0 +1,3 @@
+El software se diferencia de otros por sus diferentes funcionalidades juntadas en uno para hacer menos caotico el proceso, existen distintas aplicaciones pero ninguna te ofrece distintas funcionalidades en una, además con la opción de poder pertenecer a una comunidad ayuda al usuario a poder formar vínculos y compartir sus logros.
+
+La base de datos de la aplicación será parte fundamental del sistema, proporcionando información completa, detallada y organizada sobre una amplia variedad de plantas.
