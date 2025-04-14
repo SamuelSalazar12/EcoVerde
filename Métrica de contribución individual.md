@@ -1,0 +1,1 @@
+El 100% de las acctividades fueron hechas por Cauich Salazar Samuel Abraham (Cambios en los requisitos, historias de usuario, gestión del proceso, presentación del avance, diagrama de casos de uso...)

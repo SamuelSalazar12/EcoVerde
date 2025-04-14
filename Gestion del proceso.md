@@ -1,0 +1,1 @@
+Las actividades realizadas no necesitaron reuniones ya que el equipo esta conformado por una sola persona
