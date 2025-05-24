@@ -1,0 +1,1 @@
+https://alumnosuady-my.sharepoint.com/:x:/r/personal/a24216350_alumnos_uady_mx/_layouts/15/Doc.aspx?sourcedoc=%7B8E453FC6-0DC8-484D-AC43-DD581AE838F8%7D&file=LIS%20FIS%202025-Lista%20de%20Cotejo%20PRIMERA%20Entrega_CAUICH%20SALAZAR%20SAMUEL%20(1).xlsx&action=default&mobileredirect=true&DefaultItemOpen=1
