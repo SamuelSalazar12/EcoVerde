@@ -1,0 +1,1 @@
+Los requisitos tiene correspondencia con el prototipo, al ser de baja fidelidad todavia no se le agregaron detalles que aporten a la experiencia de usuario y calidad de la app, sin embargo las historias de usuario y los requisitos tienen correspondecia con el prototipo
