@@ -1,4 +1,4 @@
-# Análisis de Usuarios para Aplicación de Jardinería
+# Análisis de Usuarios - Eco Verde
 
 ## Usuarios Primarios
 
@@ -27,7 +27,6 @@ Personas con conocimientos avanzados en cultivo.
 **Características principales:**
 - Buscan técnicas especializadas (injertos, propagación)
 - Necesitan funciones de registro y seguimiento
-- Valoran comunidades de intercambio de conocimientos
 
 ### 4. Cultivadores de huertos urbanos
 **Descripción:**  
@@ -36,7 +35,6 @@ Personas que cultivan alimentos en espacios reducidos.
 **Características principales:**
 - Requieren información sobre ciclos de cultivo
 - Necesitan consejos para manejo ecológico
-- Valoran funciones de planificación estacional
 
 ## Usuarios Secundarios
 
@@ -59,5 +57,5 @@ Usuarios con fines académicos.
 **Descripción:**  
 Promotores de prácticas sostenibles.
 
-**Características principales:
+**Características principales:**
 - Buscan información sobre especies nativas
