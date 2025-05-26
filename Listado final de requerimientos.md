@@ -53,8 +53,5 @@ Busqueda por:
 ### RNF-4:
  Los botones y enlaces deben estar claramente visibles y colocados en posiciones intuitivas.
 
-### RNF-5:
- Las acciones importantes como eliminar una calendario de crecimiento deben requerir confirmación del usuario para evitar pérdidas accidentales de información.
-
 ### RNF-6:
  Las imágenes utilizadas para ilustrar cuidados de plantas deben tener una resolución suficiente para que los detalles importantes.
