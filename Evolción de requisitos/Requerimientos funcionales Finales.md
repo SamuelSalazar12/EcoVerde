@@ -6,12 +6,11 @@ Se ajustaron, se mejoró la redacción y se agregó el sistema de dificultad
 Busqueda por:
   - Nombre científico
   - Nombres comunes
-  - Filtros por tipo (interior/exterior, floral, frutal)
+
 
 ### RF-2: Fichas de Plantas
 - Información estructurada:
   - Requerimientos de luz/agua (escala numérica 1-5)
-  - Toxicidad para mascotas
   - Periodicidad de abonado
   - Sección "Problemas Comunes" con soluciones
 
