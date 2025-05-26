@@ -1,0 +1,3 @@
+# Critica constructiva del curso
+
+Para mí, fue un curso muy bueno, logré resolver muchas dudas que tenía sobre algunos temas, considero que la asignatura se adaptó bastante bien a los problemas que fueron surgiendo y considero que los temas y actividades fueron muy claros, considero que fue un curso muy agradable y placentero, al final me llevo mucha información y una experiencia muy buena de mi profesora y grupo, con respecto a mi profesora, considero que enseña muy bien y que se adaptó muy bien a los alumnos, no quitaría ni agregaría nada al curso.
