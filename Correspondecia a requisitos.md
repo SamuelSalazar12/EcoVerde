@@ -1,4 +1,3 @@
-## Matriz de Trazabilidad Completa
 
 ### Requerimientos Funcionales (RF)
 | ID   | Requisito                               | Historia de Usuario | Interfaz              | Criterios de Aceptación Cubiertos      | Estado  |
